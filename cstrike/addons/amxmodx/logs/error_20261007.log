@@ -1,0 +1,7 @@
+L 10/07/2026 - 22:03:49: Start of error session.
+L 10/07/2026 - 22:03:49: Info (map "zm_fdust2x2") (file "addons/amxmodx/logs/error_20261007.log")
+L 10/07/2026 - 22:03:49: [AMXX] Plugin file open error (plugin "texas1k_menu_laser.amxx")
+L 10/07/2026 - 22:03:49: [AMXX] Plugin file open error (plugin "texas1k_menu_privilegij.amxx")
+L 10/07/2026 - 22:03:50: Function "crash_server" was not found
+L 10/07/2026 - 22:03:50: [AMXX] Run time error 19 (plugin "diamond_menu.amxx") - debug not enabled!
+L 10/07/2026 - 22:03:50: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

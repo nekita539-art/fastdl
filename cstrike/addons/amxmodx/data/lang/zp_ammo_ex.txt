@@ -1,0 +1,13 @@
+[en]
+WAS_G = was given
+CHANGED = Now it will give
+AMMO = ammo packs
+AM = Give Ammo Menu
+
+[ru]
+WAS_G = получил
+CHANGED = Теперь раздаем по
+AMMO = долларов
+AM = Меню раздачи долларов
+ADMINS = Администратор
+ADD = выдал вам

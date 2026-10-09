@@ -1,0 +1,5 @@
+[ru]
+STOP_FLOOD = Прекратите флуд на сервере!
+
+[en]
+STOP_FLOOD = Stop flooding the server!

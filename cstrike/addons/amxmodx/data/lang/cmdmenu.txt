@@ -1,0 +1,10 @@
+[ru]
+CMD_MENU = Меню серверных команд
+CONF_MENU = Меню конфигураций
+SPE_MENU = Меню голосовых сообщений
+CVARS_MENU = Меню переменных
+
+[en]
+CMD_MENU = Commands Menu
+CONF_MENU = Configs Menu
+SPE_MENU = Speech Menu

@@ -1,0 +1,6 @@
+; Флаги
+; Вип - ab       
+; Админ - abc     
+; Босс - abcd    
+; Даймонд - abcde 
+; Создатель - abcdefghijklmnopqrstu 

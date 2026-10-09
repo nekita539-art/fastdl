@@ -1,0 +1,59 @@
+#if defined _cstrike2_included
+  #endinput
+#endif
+#define _cstrike2_included
+
+#include <fakemeta>
+
+#define HAS_SHIELD      (1<<24) //16777216 
+
+#define EXTRAOFFSET_WEAPONS			4 // weapon offsets are obviously only 4 steps higher on Linux!
+#define ACTUAL_EXTRA_OFFSET			20
+
+#define OFFSET_ARMORTYPE			112
+#define OFFSET_TEAM				114
+#define OFFSET_CSMONEY			115
+#define OFFSET_PRIMARYWEAPON		116
+#define OFFSET_LASTACTIVITY		124
+#define OFFSET_INTERNALMODEL		126
+#define OFFSET_NVGOGGLES			129
+#define OFFSET_DEFUSE_PLANT		193
+#define OFFSET_VIP				209
+#define OFFSET_TK				216 // 040926
+#define OFFSET_HOSTAGEKILLS		217
+#define OFFSET_MAPZONE			235
+#define OFFSET_ISDRIVING			350 // 040926
+#define OFFSET_STATIONARY		362 // 040927 (363 works also!)
+#define OFFSET_ZOOMTYPE			363
+
+#define OFFSET_AWM_AMMO			377 // 041029: All of these *_AMMO:s were changed -5
+#define OFFSET_SCOUT_AMMO		378
+#define OFFSET_PARA_AMMO			379
+#define OFFSET_FAMAS_AMMO		380
+#define OFFSET_M3_AMMO			381
+#define OFFSET_USP_AMMO			382
+#define OFFSET_FIVESEVEN_AMMO		383
+#define OFFSET_DEAGLE_AMMO		384
+#define OFFSET_P228_AMMO			385
+#define OFFSET_GLOCK_AMMO		386
+#define OFFSET_FLASH_AMMO		387
+#define OFFSET_HE_AMMO			388
+#define OFFSET_SMOKE_AMMO		389
+#define OFFSET_C4_AMMO			390
+
+#define OFFSET_CSDEATHS			444 // 040926
+#define OFFSET_SHIELD			510
+// "weapon_*" entities
+#define OFFSET_WEAPONTYPE		43 //+ EXTRA_OFFSET_WEAPONS
+#define OFFSET_CLIPAMMO			51 //+ EXTRA_OFFSET_WEAPONS
+#define OFFSET_SILENCER_FIREMODE	74 //+ EXTRA_OFFSET_WEAPONS
+// "hostage_entity" entities
+#define OFFSET_HOSTAGEFOLLOW		86
+#define OFFSET_HOSTAGE_NEXTUSE	100
+#define OFFSET_HOSTAGE_LASTUSE	483
+#define OFFSET_HOSTAGEID			487
+// "armoury_entity"
+#define OFFSET_ARMOURY_TYPE		34 //+ EXTRA_OFFSET_WEAPONS
+// C4 offsets
+#define OFFSET_C4_EXPLODE_TIME	100
+#define OFFSET_C4_DEFUSING		0x181 //+ ACTUAL_EXTRA_OFFSET

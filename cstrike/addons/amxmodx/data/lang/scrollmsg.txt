@@ -1,0 +1,9 @@
+[ru]
+MIN_FREQ = Частота появления этого сообщения %d секунд
+MSG_FREQ = Частота появления бегущей строки: %d:%02d минут
+MSG_DISABLED = Бегущая строка заблокирована
+
+[en]
+MIN_FREQ = Minimal frequency for this message is %d seconds
+MSG_FREQ = Scrolling message displaying frequency: %d:%02d minutes
+MSG_DISABLED = Scrolling message disabled

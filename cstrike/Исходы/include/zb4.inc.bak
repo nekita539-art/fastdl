@@ -1,0 +1,3 @@
+native zb4_get_night()
+native zb4_get_user_gauge(id)
+native zb4_set_user_gauge(id, num)

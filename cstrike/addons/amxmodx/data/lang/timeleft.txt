@@ -1,0 +1,17 @@
+[ru]
+THE_TIME = Время:
+TIME_LEFT = Осталось:
+NO_T_LIMIT = Неограниченно
+MINUTE = минута
+MINUTES = минут
+SECOND = секунда
+SECONDS = секунд
+
+[en]
+THE_TIME = The time
+TIME_LEFT = Time Left
+NO_T_LIMIT = No Time Limit
+MINUTE = minute
+MINUTES = minutes
+SECOND = second
+SECONDS = seconds

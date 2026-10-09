@@ -1,0 +1,28 @@
+﻿[ru]
+MENU_NAME	= \y[ZBG] \rПрокачка \yскиллов^n\y[ZM] \wУ вас: \r( \y%d\r ) \wМани
+
+MENU_KEY_1	= \r[\y1\r]. \wЖизни \r(\y%d\d/\y10\r) \d[\y%d\d]
+MENU_KEY_1_D	= \r[\y1\r]. \dЖизни \d(\y%d\d/\y10\d) \d[%d]
+
+MENU_KEY_2	= \r[\y2\r]. \wБроня \r(\y%d\d/\y15\r) \d[\y%d\d] \r[\y5 LVL\r]
+MENU_KEY_2_D	= \r[\y2\r]. \dБроня \d(\y%d\d/\y15\d) \d[%d] \r[\y5 LVL\r]
+
+MENU_KEY_3	= \r[\y3\r]. \wУрон \r(\y%d\d/\y5\r) \d[\y%d\d] \r[\y15 LVL\r]
+MENU_KEY_3_D	= \r[\y3\r]. \dУрон \d(\y%d\d/\y5\d) \d[%d] \r[\y15 LVL\r]
+
+MENU_KEY_4_D	= \r[\y4\r]. \rОбмен \y урона
+
+
+[en]
+MENU_NAME	= \y[ZBG] \rПрокачка \yскиллов^n\y[ZM] \wУ вас: \r( \y%d\r ) \wМани
+
+MENU_KEY_1	= \r[\y1\r]. \wЖизни \r(\y%d\d/\y10\r) \d[\y%d\d]
+MENU_KEY_1_D	= \r[\y1\r]. \dЖизни \d(\y%d\d/\y10\d) \d[%d]
+
+MENU_KEY_2	= \r[\y2\r]. \wБроня \r(\y%d\d/\y15\r) \d[\y%d\d] \r[\y5 LVL\r]
+MENU_KEY_2_D	= \r[\y2\r]. \dБроня \d(\y%d\d/\y15\d) \d[%d] \r[\y5 LVL\r]
+
+MENU_KEY_3	= \r[\y3\r]. \wУрон \r(\y%d\d/\y5\r) \d[\y%d\d] \r[\y15 LVL\r]
+MENU_KEY_3_D	= \r[\y3\r]. \dУрон \d(\y%d\d/\y5\d) \d[%d] \r[\y15 LVL\r]
+
+MENU_KEY_4_D	= \r[\y4\r]. \rОбмен \y урона

@@ -1,0 +1,99 @@
+[ru]
+NOTICE_INFO1 = Покупка привилегий: vk.com/grisa123
+NOTICE_INFO2 = Покупка привилегий: vk.com/grisa123
+NOTICE_VIRUS_FREE = --=== Т-Вирус в воздухе !!! ===--
+NOTICE_FIRST = <<<<< %s первый зомби >>>>>
+NOTICE_INFECT = .
+NOTICE_INFECT2 = .
+NOTICE_ANTIDOTE = .
+NOTICE_NEMESIS = ...::: %s Дракон !!!:::...
+NOTICE_SURVIVOR = ...::: %s Выживший !!! :::...
+NOTICE_SWARM = • КУЧА НА КУЧУ •
+NOTICE_MULTI = • МАССОВЫЙ •
+NOTICE_PLAGUE = • ЧУМА •
+
+WIN_HUMAN = † ЛЮДИ ПОБЕДИЛИ †
+WIN_ZOMBIE = † ЗОМБИ ПОБЕДИЛИ †
+WIN_NO_ONE = • НИЧЬЯ •
+
+CMD_INFECT = Превращен в зомби
+CMD_DISINFECT = Снова человек
+CMD_NEMESIS = Превращён в Немезиду
+CMD_SURVIVAL = Превращён в Выжившийа
+CMD_SWARM = Теперь куча на кучу
+CMD_MULTI = Началось множественное заражение
+CMD_PLAGUE = Началась чума
+CMD_RESPAWN = Возродился
+CMD_NOT = Не действуящая комманда.
+CMD_ZOMBIE_ONLY = Это только для зомбарей.
+CMD_HUMAN_ONLY = Это только для людей.
+CMD_NOT_STUCK = Вы не застряли.
+CMD_NOT_ACCESS = У вас нет доступа.
+CMD_NOT_CANTUSE = Нельзя сейчас это использовать.
+CMD_NOT_EXTRAS = Экстра предметы отключены.
+CMD_NOT_ZCLASSES = Варианты зомби отключены.
+
+MENU_BUY = Оружейка 
+MENU_EXTRABUY = Магазин 24/7
+MENU_ZCLASS = Классы зомбаков
+MENU_SPECTATOR = \yДонат Меню
+MENU_BUYADMIN = \yМеню \rVIP
+MENU_PRIVILEGIJ = \yМеню \rADMIN
+MENU_BOSS = \yМеню \rBOSS
+MENU_DIAMOND = \yМеню \rDIAMOND
+
+MENU_BUY1_TITLE = • Автоматы •
+MENU_BUY2_TITLE = • Пистолеты •
+MENU_ZCLASS_TITLE = Классы Зомбаков
+MENU_EXTRA_TITLE = • Магазин •
+MENU_ADMIN_TITLE = Меню Админа
+MENU_INFO_TITLE = О плагине
+
+MENU_EXTRA1 = Ночное видение
+MENU_EXTRA2 = \rАнтидот
+MENU_EXTRA3 = \rБешенство
+MENU_EXTRA4 = \yГраната Вирус
+MENU_INFO1 = Основные
+MENU_INFO2 = Люди
+MENU_INFO3 = Зомбари
+MENU_INFO4 = Модели
+
+MENU_AUTOSELECT = Запомнить выбор
+MENU_BACK = Назад
+MENU_NEXT = Далее
+MENU_EXIT = Выход
+
+MOTD_ENABLED = Вкл.
+MOTD_DISABLED = Выкл.
+MOTD_FOG = Туман
+MOTD_RAIN = Дождь
+MOTD_SNOW = Снег
+MOTD_ROTATING = Вращающиеся двери у6раны
+MOTD_DOORS = Все двери у6раны
+MOTD_DM_HUMAN = Восстановить как человека
+MOTD_DM_ZOMBIE = Восстановить как зом6и
+MOTD_LIMITED = Ограниченный
+MOTD_AMMO_BP = Неграничен. запас
+MOTD_AMMO_CLIP = Неограничен. о6ойма
+MOTD_LASTZOMBIE = Только при последнем зом6и
+
+ZOMBIE_ATTRIB1 = Хп
+ZOMBIE_ATTRIB2 = Скорость
+ZOMBIE_ATTRIB3 = Гравитация
+ZOMBIE_ATTRIB4 = Отскок
+
+CLASS_CLASS = Ты:
+CLASS_HUMAN = Человек
+CLASS_ZOMBIE = Зомби
+CLASS_SURVIVOR = Выживший
+CLASS_NEMESIS = Дракон
+
+LAST_ZOMBIE_LEFT = Последний зомби вышел, заразив %s.
+LAST_HUMAN_LEFT = Последний вышел, вылечив %s.
+NOT_ENOUGH_AMMO = У вас нет Долларов.
+AMMO_BOUGHT = Вы получили боеприпасы.
+ZOMBIE_SELECT = Ваш тип зомби в следующем раунде будет
+BUY_ENABLED = У вас уже это есть!
+AMMO_PACKS1 = Паков:
+AMMO_PACKS2 = [$]
+SPECTATING = Ник:

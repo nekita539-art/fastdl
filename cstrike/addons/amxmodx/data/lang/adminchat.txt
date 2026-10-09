@@ -1,0 +1,25 @@
+[ru]
+COL_WHITE = белый
+COL_RED = красный
+COL_GREEN = зеленый
+COL_BLUE = синий
+COL_YELLOW = желтый
+COL_MAGENTA = пурпурный
+COL_CYAN = голубой
+COL_ORANGE = оранжевый
+COL_OCEAN = морская волна
+COL_MAROON = коричневый
+PRINT_ALL = %s (для всех): %s
+
+[en]
+COL_WHITE = white
+COL_RED = red
+COL_GREEN = green
+COL_BLUE = blue
+COL_YELLOW = yellow
+COL_MAGENTA = magenta
+COL_CYAN = cyan
+COL_ORANGE = orange
+COL_OCEAN = ocean
+COL_MAROON = maroon
+PRINT_ALL = (ALL) %s :   %s

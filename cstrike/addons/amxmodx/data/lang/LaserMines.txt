@@ -1,0 +1,67 @@
+﻿[ru]
+CHATTAG	=	[ZP][LM]
+STR_NOTACTIVE	=	МИНЫ ВЫКЛЮЧЕНЫ!
+STR_NOROUND	=	Раунд еще не начался!
+STR_SURVROUND	=	В раунде 'Выживший' нельзя ставить мины!
+STR_NEMROUND	=	В раунде 'Немезида' нельзя ставить мины!
+STR_DONTHAVEMINE	=	У Вас нет лазерных мин.
+STR_MAXDEPLOY	=	Установлен максимум мин.
+STR_MANYPPL	=	Слишком много мин для вашей команды...
+STR_PLANTWALL	=	Мины нужно ставить на стену!
+STR_REF	=	Чтоб узнать как ставить мины пропишите в консоли: 'say lasermine'
+STR_CBT	=	Вы не можете ставить мины!
+STR_CANTBUY	=	Can't buying this server.
+STR_HAVEMAX	=	У Вас максимум Лазерных Мин.
+STR_NOMONEY	=	У Вас не достаточно средств (нужно 
+STR_NEEDED	=	бонусa(ов)).
+STR_DELAY	=	Вы можете покупать и ставить мины через
+STR_SECONDS	=	сек.
+STR_BOUGHT	=	Вы купили лазерную мину!
+STR_STATE	=	Количество мин:
+STR_NOACCESS	=	И куда ты ломишься?!
+
+
+[en]
+CHATTAG	=	[ZP][LM]
+STR_NOTACTIVE	=	МИНЫ ВЫКЛЮЧЕНЫ!
+STR_NOROUND	=	Раунд еще не начался!
+STR_SURVROUND	=	В раунде 'Выживший' нельзя ставить мины!
+STR_NEMROUND	=	В раунде 'Немезида' нельзя ставить мины!
+STR_DONTHAVEMINE	=	У Вас нет лазерных мин.
+STR_MAXDEPLOY	=	Установлен максимум мин.
+STR_MANYPPL	=	Слишком много мин для вашей команды...
+STR_PLANTWALL	=	Мины нужно ставить на стену!
+STR_REF	=	Чтоб узнать как ставить мины пропишите в консоли: 'say lasermine'
+STR_CBT	=	Вы не можете ставить мины!
+STR_CANTBUY	=	Can't buying this server.
+STR_HAVEMAX	=	У Вас максимум Лазерных Мин.
+STR_NOMONEY	=	У Вас не достаточно средств (нужно 
+STR_NEEDED	=	бонусa(ов)).
+STR_DELAY	=	Вы можете покупать и ставить мины через
+STR_SECONDS	=	сек.
+STR_BOUGHT	=	Вы купили лазерную мину!
+STR_STATE	=	Количество мин:
+STR_NOACCESS	=	И куда ты ломишься?!
+
+
+[fr]
+CHATTAG	=	[ZP][LM]
+STR_NOTACTIVE	=	МИНЫ ВЫКЛЮЧЕНЫ!
+STR_NOROUND	=	Раунд еще не начался!
+STR_SURVROUND	=	В раунде 'Выживший' нельзя ставить мины!
+STR_NEMROUND	=	В раунде 'Немезида' нельзя ставить мины!
+STR_DONTHAVEMINE	=	У Вас нет лазерных мин.
+STR_MAXDEPLOY	=	Установлен максимум мин.
+STR_MANYPPL	=	Слишком много мин для вашей команды...
+STR_PLANTWALL	=	Мины нужно ставить на стену!
+STR_REF	=	Чтоб узнать как ставить мины пропишите в консоли: 'say lasermine'
+STR_CBT	=	Вы не можете ставить мины!
+STR_CANTBUY	=	Can't buying this server.
+STR_HAVEMAX	=	У Вас максимум Лазерных Мин.
+STR_NOMONEY	=	У Вас не достаточно средств (нужно 
+STR_NEEDED	=	бонусa(ов)).
+STR_DELAY	=	Вы можете покупать и ставить мины через
+STR_SECONDS	=	сек.
+STR_BOUGHT	=	Вы купили лазерную мину!
+STR_STATE	=	Количество мин:
+STR_NOACCESS	=	И куда ты ломишься?!

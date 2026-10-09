@@ -1,0 +1,78 @@
+[ru]
+CSO_CLASS_HUNTER_SPOSOB = !y[ !gZM !y] Способность !gРазгон !yАктивация клавиша !gG
+CSO_CLASS_HUNTER_SPOSOB2 = !y[ !gZM !y] Способность !gРазгон !yГотова!
+
+CSO_CLASS_GHOST_NEW_SECOUND = !y[ !gZM !y] Невидимость достигла !g%d 01секунд
+CSO_CLASS_GHOST_SPOSOB = !y[ !gZM !y] Твоя способность !gИнвиз!y готова!
+CSO_CLASS_GHOST_INVIZ = Инвиз длится еще : %d
+CSO_CLASS_GHOST_YOU_ABILITY = !y[ !gZM !y] Твоя способность !gИнвиз!y. Откат:!g %d !yсекунд.
+
+CSO_CLASS_HEAVY_YOU_AVILITY = !g[ ZM ] !yСпособность !g[Темный Экран] !yГотова.
+CSO_CLASS_HEAVY_YOU_ABILITY2 = !g[ ZM ] !yСпособность Ловушки !g[Кнопка R]!y. Кол.:!g %d шт.
+
+CSO_CLASS_HEAVY_STOPED = Вы попали в ловушку!!
+CSO_CLASS_HEAVY_TROPED = Кто-то попался в ловушку!!
+CSO_CLASS_HEAVY_UINSTALL = Установка...
+CSO_CLASS_HEAVY_NO_TRAP = Ловушки кончились
+CSO_CLASS_HEAVY_NO_GROUND = Невозможно установить ловушку
+CSO_CLASS_HEAVY_BLIZKO = Ловушки немогут быть так близко
+CSO_CLASS_HEAVY_UINSTALL_END = Ловушка установлена!!
+
+CSO_CLASS_HEALER_ABILITY1 = !y[ !gZM !y] Способность !g[1]!y | !g[Исцелять]!y | Кнопка !g[ATTACK2]
+CSO_CLASS_HEALER_ABILITY2 = !y[ !gZM !y] Способность !g[2]!y | !g[Взрываться <1000HP]!y | Кнопка !g[G]
+CSO_CLASS_HEALER_HEAL = !y[ !gZM !y] Вы исцеляете: ^%s
+CSO_CLASS_HEALER_NO_RADIUS = !y[ !gZM !y] Цель вне радиуса
+CSO_CLASS_HEALER_HEAL_STOP = !y[ !gZM !y] Отмена исцеления
+
+CSO_CLASS_HEALER_YOU_HEAL = Вас исцеляет: %s
+
+
+ZM_CLASS_TESLA_EXPECT = !g[CSO ZM]!y Твоя способность !gстрелять Энерго-Шаром.!yОткат:!g 20 !yсекунд.
+ZM_CLASS_TESLA_VIP = !g[CSO ZM]!y Этот класс Только для !gVIP игроков!.
+ZM_CLASS_TESLA_ENERGY_NUM = [Energy Ball's: %d]
+ZM_CLASS_TESLA_ACCUMULATES = <<Энергия накапливается>>
+ZM_CLASS_TESLA_START = <<Энергия накопилась можно стрелять>>
+ZM_CLASS_TESLA_NOSTART = <<Очень близко нельзя стрелять>>
+ZM_CLASS_TESLA_GOTOVO = <<<Твоя Способность готова!!!>>>
+ZM_CLASS_TESLA_SHARI = !g[CSO ZM]!y Вы выстрелили энергетическим шаром(осталось %d). Теперь ждите откат!g 20 !yсек.
+
+CSO_CLASS_RELOAD = [Способность через : %d]
+
+[en]
+CSO_CLASS_HUNTE_SPOSOB = !y[ !gZM !y] Ability !gdispersal !yactivation !gButton: G
+CSO_CLASS_HUNTE_SPOSOB2 = !y[ !gZM !y] Ability !gDispersal !yo cook!!
+
+CSO_CLASS_GHOST_NEW_SECOUND = !y[ !gZM !y] Invisibility reached !g%d 01seconds
+CSO_CLASS_GHOST_SPOSOB = !y[ !gZM !y] Your ability !gInvisible !yready!
+CSO_CLASS_GHOST_INVIZ = Inviz lasts more: %d seconds
+CSO_CLASS_GHOST_YOU_ABILITY = !y[ !gZM !y] Your ability !ginvize !y. Rollback: !g%d !yseconds
+
+CSO_CLASS_HEAVY_YOU_AVILITY = !g[ ZM ] !yThe ability of !g[Dark Screen] !yReady.
+CSO_CLASS_HEAVY_YOU_ABILITY2 = !g[ ZM ] !yThe ability to trap !g[Button R] !y. Number.: !g%d.
+
+CSO_CLASS_HEAVY_STOPED = You were caught in a trap!
+CSO_CLASS_HEAVY_TROPED = Someone caught in a trap!
+CSO_CLASS_HEAVY_UINSTALL = Installing ...
+CSO_CLASS_HEAVY_NO_TRAP = End traps
+CSO_CLASS_HEAVY_NO_GROUND = You can not set a trap
+CSO_CLASS_HEAVY_BLIZKO = Traps nemogut be so close
+CSO_CLASS_HEAVY_UINSTALL_END = The trap is set!!!
+
+CSO_CLASS_HEALER_ABILITY1 = !y[ !gZM !y] Ability !g[1]!y | !g[Heal]!y | Button !g[ATTACK2]
+CSO_CLASS_HEALER_ABILITY2 = !y[ !gZM !y] Ability !g[2]!y | !g[Explode < 1000HP]!y | Button !g[G]
+CSO_CLASS_HEALER_HEAL = !y[ !gZM !y] You heal: ^x%s
+CSO_CLASS_HEALER_NO_RADIUS = !y[ !gZM !y] The goal is outside the range
+CSO_CLASS_HEALER_HEAL_STOP = !y[ !gZM !y] Cancel healing
+
+CSO_CLASS_HEALER_YOU_HEAL = Heals you: %s
+
+ZM_CLASS_TESLA_EXPECT = !g[CSO ZM]!y your ability to !gShoot Energy Ball.!yrecoil:!g 20 !yseconds.
+ZM_CLASS_TESLA_VIP = !g[CSO ZM]!y This class only!g VIP players!.
+ZM_CLASS_TESLA_ENERGY_NUM = [Energy Ball's: %d]
+ZM_CLASS_TESLA_ACCUMULATES = <<Energy is accumulated>>
+ZM_CLASS_TESLA_START = <<Accumulated energy can be fired>>
+ZM_CLASS_TESLA_NOSTART = <<Very close not to shoot>>
+ZM_CLASS_TESLA_GOTOVO = <<<Your ability to ready!!!>>>
+ZM_CLASS_TESLA_SHARI = !g[CSO ZM]!y You shot a ball of energy (left %d). Wait for pullback!g 20 !ysec.
+
+CSO_CLASS_RELOAD = [The ability of a : %d seconds]

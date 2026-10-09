@@ -1,0 +1,9 @@
+[ru]
+NEXT_MAP = Следующая карта
+PLAYED_MAP = Сыграна карта
+FRIEND_FIRE = Огонь в своих
+
+[en]
+NEXT_MAP = Next Map:
+PLAYED_MAP = Played map
+FRIEND_FIRE = Friendly fire
