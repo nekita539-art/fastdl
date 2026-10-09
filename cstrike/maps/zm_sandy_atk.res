@@ -1,9 +1,0 @@
-gfx/env/trainyardup.tga
-gfx/env/trainyarddn.tga
-gfx/env/trainyardlf.tga
-gfx/env/trainyardrt.tga
-gfx/env/trainyardft.tga
-gfx/env/trainyardbk.tga
-models/ez_kust3.mdl
-models/ez_kust2.mdl
-models/ezpalma.mdl
