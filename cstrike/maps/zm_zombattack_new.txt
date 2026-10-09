@@ -1,0 +1,13 @@
+zm_zombattack_new - Counter-Strike - ZombieMod
+Remake DimeX
+
+Map from my collection X-Zm_maps. It remake an interesting map zm_zombattack. 
+Gameplay I have left practically former, behind an exception of pair trifles.
+Changes:
+1. New textures
+2. It is finished gameplay, now it is even better
+3. Models on a map are added
+
+X-Zm_maps - best maps
+
+(Press FIRE to continue)
