@@ -1,1 +1,0 @@
-native get_user_fps(id);

@@ -1,5 +1,0 @@
-[ru]
-DROPPED_RES = Извините, это зарезервированный слот!
-
-[en]
-DROPPED_RES = Dropped due to slot reservation

@@ -1,1 +1,0 @@
-native set_user_freeday(id, mode)

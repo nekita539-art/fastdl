@@ -1,5 +1,0 @@
-native pkm(id)
-native infi(id)
-native skull1(id)
-native m134(id)
-native watergun(id)
