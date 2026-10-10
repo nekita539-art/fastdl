@@ -1,6 +1,0 @@
-Map name: zm_ice_attack2009.
-Version map: Counter Strike 1.6
-Category: Zombie
-
-Download from cs-files.net (rus).
-In site cs-files.net there is still more than 4000 maps.
